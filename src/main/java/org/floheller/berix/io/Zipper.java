@@ -1,11 +1,28 @@
+package org.floheller.berix.io;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.nio.file.Path;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
+
 public class Zipper {
+
+    /**
+    * Extrahiert ein Zip-Archiv in ein neu angelegtes temporäres Verzeichnis und liefert dieses zurück.
+    * @param zipFilePath Pfad zum Zip-Archiv (z.B. .\Eigene Dateien\zip-folder\super.zip)
+    * @throws IOException
+    */
+
+    public static Path  zipFileInTempDirExtrahieren(String zipFilePath) throws IOException {
+        Path temp=TempDirectories.createTempDirectory();
+        zipFileInsVerzeichnisExtrahieren(zipFilePath,temp.toString());
+        return temp;
+    }
+
 
 /**
  * Extrahiert ein Zip-Archiv in das angegebene Zielverzeichnis

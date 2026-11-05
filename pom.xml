@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.flo.berix</groupId>
-    <artifactId>mein-projekt</artifactId>
+    <artifactId>Berix-Berichte-Explorer</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -17,7 +17,7 @@
 
     <build>
         <plugins>
-            <!-- Plugin zum Erstellen einer ausführbaren Jar-Datei -->
+            <!-- Plugin zum Erstellen einer ausführbaren Jar-Datei OHNE DEPENDENCIES
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
@@ -25,11 +25,50 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>org.flo.berix.Main</mainClass>
+                            <mainClass>org.floheller.berix.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
             </plugin>
+            -->
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-assembly-plugin</artifactId>
+            <version>3.8.0</version>
+            <configuration>
+                <descriptorRefs>
+                    <descriptorRef>jar-with-dependencies</descriptorRef>
+                </descriptorRefs>
+                <archive>
+                        <manifest>
+                            <mainClass>org.floheller.berix.Main</mainClass>
+                        </manifest>
+                    </archive>
+
+
+            </configuration>
+            <executions>
+                <execution>
+                    <id>assemble-all</id>
+                    <phase>package</phase>
+                    <goals>
+                        <goal>single</goal>
+                    </goals>
+                </execution>
+            </executions>
+        </plugin>
+
+
         </plugins>
     </build>
+
+
+    <dependencies>
+
+    <dependency>
+        <groupId>org.json</groupId>
+        <artifactId>json</artifactId>
+        <version>20231013</version>
+    </dependency>
+    </dependencies>
 </project>
