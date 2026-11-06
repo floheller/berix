@@ -1,6 +1,7 @@
 /home/florian/Dokumente/myrepos/berix/src/main/java/org/floheller/berix/Main.java
+/home/florian/Dokumente/myrepos/berix/src/main/java/org/floheller/berix/io/ASVSerienbrief.java
 /home/florian/Dokumente/myrepos/berix/src/main/java/org/floheller/berix/io/TempDirectories.java
 /home/florian/Dokumente/myrepos/berix/src/main/java/org/floheller/berix/io/Zipper.java
-/home/florian/Dokumente/myrepos/berix/src/main/java/org/floheller/berix/io/bjb/BJBParseException.java
-/home/florian/Dokumente/myrepos/berix/src/main/java/org/floheller/berix/io/bjb/BJBReader.java
-/home/florian/Dokumente/myrepos/berix/src/main/java/org/floheller/berix/io/bjb/SvgXmlReader.java
+/home/florian/Dokumente/myrepos/berix/src/main/java/org/floheller/berix/io/bsbj/BSBJParseException.java
+/home/florian/Dokumente/myrepos/berix/src/main/java/org/floheller/berix/io/bsbj/BSBJReader.java
+/home/florian/Dokumente/myrepos/berix/src/main/java/org/floheller/berix/io/bsbj/SvgXmlReader.java

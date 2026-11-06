@@ -70,5 +70,13 @@
         <artifactId>json</artifactId>
         <version>20231013</version>
     </dependency>
+    <!-- Für XML-Ausgabe-->
+<dependency>
+  <groupId>com.jcabi</groupId>
+  <artifactId>jcabi-xml</artifactId>
+  <version>0.14</version>
+</dependency>
+
+
     </dependencies>
 </project>

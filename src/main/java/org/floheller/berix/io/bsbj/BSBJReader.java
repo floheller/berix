@@ -13,11 +13,7 @@ import java.io.Reader;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
-
-import org.w3c.dom.Document;
 import org.xml.sax.SAXException;
 
 /**
@@ -27,42 +23,24 @@ import org.xml.sax.SAXException;
 
 
 
-public class BSJBReader {
+public class BSBJReader {
     
-    public static JSONObject readObjectlisteJSONObject(Path filepath) throws IOException {
-        try (Reader reader = Files.newBufferedReader(filepath, StandardCharsets.UTF_8)) {
-            JSONObject json = new JSONObject(new JSONTokener(reader));
-            return json;   
-        }
-    }
 
-        public static JSONArray readObjectlisteJSONArray(Path filepath) throws IOException {
+        private static JSONArray readObjectlisteJSONArray(Path filepath) throws IOException {
         try (Reader reader = Files.newBufferedReader(filepath, StandardCharsets.UTF_8)) {
             JSONArray json = new JSONArray(new JSONTokener(reader));
             return json;   
         }
     }
 
-    public static JSONObject parseBSJBFilePath(Path filepath) throws IOException, BJBParseException, ParserConfigurationException, SAXException {
+    public static ASVSerienbrief parseBSJBFilePath(Path filepath) throws IOException, BSBJParseException, ParserConfigurationException, SAXException {
         JSONArray arr=readObjectlisteJSONArray(filepath);
-        if (arr.length()>1) BJBParseException.throwMultipleListElementsError("Gesamte Datei "+filepath+" besteht auf oberster Ebene aus mehreren Listeneinträgen.");
+        if (arr.length()>1) BSBJParseException.throwMultipleListElementsError("Gesamte Datei "+filepath+" besteht auf oberster Ebene aus mehreren Listeneinträgen.");
         JSONObject obj=arr.getJSONObject(0);
         ASVSerienbrief serienbrief=new ASVSerienbrief(obj);
-
-
-        String schablone=obj.getString("schabloneJson");
-        JSONObject schabloneJSON=new JSONObject(schablone);
-        obj.put("schabloneJson",schabloneJSON);
-        String b64kodiert = schabloneJSON.getJSONObject("mPrintDrawing").getJSONArray("mDrawing").getJSONObject(0).getString("mDrawing");
-        byte[] dekodiert = Base64.getDecoder().decode(b64kodiert);
-        String decodedStr = new String(dekodiert, StandardCharsets.UTF_8);
-
-        BJBNode document = SvgXmlReader.read(decodedStr);
-        printBJBDocument(document.elements());
-        return null;
-
+        return serienbrief;      
     }
-
+/*
     private static void printBJBDocument(List<BJBElement> list) {
         for (BJBElement elem:list) {
             if ("textArea".equals(elem.type())) 
@@ -81,7 +59,7 @@ public class BSJBReader {
                 }
 
         }
-    }
+    }*/
 }
 
 

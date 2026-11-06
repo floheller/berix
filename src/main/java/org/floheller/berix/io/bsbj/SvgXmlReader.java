@@ -1,4 +1,4 @@
-package org.floheller.berix.io.bjb;
+package org.floheller.berix.io.bsbj;
 import java.io.IOException;
 import java.io.StringReader;
 import java.util.ArrayList;
@@ -24,7 +24,7 @@ public final class SvgXmlReader {
     public record BJBNode(Map<String, String> attributes, List<BJBElement> elements) {
     }
 
-    public static BJBNode read(String xmlString)
+    public static Document read(String xmlString)
             throws ParserConfigurationException, IOException, SAXException {
 
         DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
@@ -40,8 +40,11 @@ public final class SvgXmlReader {
         factory.setAttribute(XMLConstants.ACCESS_EXTERNAL_DTD, "");
         factory.setAttribute(XMLConstants.ACCESS_EXTERNAL_SCHEMA, "");
 
-Document document = factory.newDocumentBuilder()
+        Document document = factory.newDocumentBuilder()
             .parse(new InputSource(new StringReader(xmlString)));
+        return document;
+    }
+    /*
             Element root = document.getDocumentElement();
 
         Map<String, String> rootAttributes = readAttributes(root);
@@ -64,7 +67,7 @@ Document document = factory.newDocumentBuilder()
 
         return new BJBNode(rootAttributes, List.copyOf(elements));
     }
-
+        */
 
 
 

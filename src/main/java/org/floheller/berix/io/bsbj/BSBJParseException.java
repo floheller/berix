@@ -1,10 +1,10 @@
-package org.floheller.berix.io.bjb;
+package org.floheller.berix.io.bsbj;
 
-public class BJBParseException extends Exception {
+public class BSBJParseException extends Exception {
     private String msg;
     private fehlertypen number;
     public static enum fehlertypen  {MEHRERE_EINTRAEGE};
-    public BJBParseException(String msg, fehlertypen number) {
+    public BSBJParseException(String msg, fehlertypen number) {
         super(msg);
         this.msg=msg;
         this.number=number;
@@ -25,8 +25,8 @@ public class BJBParseException extends Exception {
         }
     }
 
-    public static void throwMultipleListElementsError(String msg) throws BJBParseException {
-        throw new BJBParseException(msg, fehlertypen.MEHRERE_EINTRAEGE);
+    public static void throwMultipleListElementsError(String msg) throws BSBJParseException {
+        throw new BSBJParseException(msg, fehlertypen.MEHRERE_EINTRAEGE);
     }
 
 

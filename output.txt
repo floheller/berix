@@ -1,0 +1,1606 @@
+Hallo
+/tmp/Berix-Temp-Dir-10138685452774789912/Objectliste.json
+<svg>    <div>      <p>        <span><font color="#000000" face="Arial">Dokumentationshilfe&#185; f&#252;r         Einrichtungen bzw. &#220;bermittlungsbogen an das zust&#228;ndige Gesundheitsamt</font></span>      </p>    </div>      <div>      <p>        <span><font color="#000000" face="Arial"><b>Nachweis &#252;ber einen         ausreichenden Masernschutz gem&#228;&#223; &#167; 20 Absatz 9 ff.         Infektionsschutzgesetz (IfSG) in Gemeinschaftseinrichtungen</b></font></span>      </p>    </div>      <div>      <p align="left">              </p>    </div>      <div>      <p>        <span><font color="#000000" face="Arial">Nachname:</font></span>      </p>    </div>      <div>      <p>        <span><font color="#000000" face="Arial">Vorname:</font></span>      </p>    </div>      <div>      <p>        <span><font color="#000000" face="Arial">Name aller         Personensorgeberechtigten oder Betreuer:</font></span>      </p>    </div>      <div>      <p align="left">              </p>    </div>      <div>      <p align="center">        <span><font color="#000000" face="Arial">Geschlecht (m/w/d/oA):</font></span>      </p>    </div>      <div>      <p align="center">              </p>    </div>      <div>      <p align="center">        <span><font color="#000000" face="Arial">Geburtsdatum:</font></span>      </p>    </div>      <div>      <p align="center">              </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial"><b>1. F&#252;r o.g. Person&#178; sind         die Anforderungen zum Masernschutz erf&#252;llt</b></font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">Erreichbarkeit:</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">Adresse:</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">Adresse:</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">[erzbArt]:</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">[werzbArt]:</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">Nachweis &#252;ber 2         Masernimpfungen f&#252;r Erwachsene und Kinder (in der Regel ab 2 Jahre)</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial"><b>Eine Meldung an das         zust&#228;ndige Gesundheitsamt ist in den genannten F&#228;llen <u>nicht</u>         erforderlich.</b></font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">Erreichbarkeit:</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial"><b>2. F&#252;r o.g. Person sind         die Anforderungen zum Masernschutz <u>nicht</u> erf&#252;llt</b></font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">Es konnte keiner der im         vorstehenden Feld aufgef&#252;hrten Nachweise erbracht werden.</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial"><b>Oben genannte Person kann         deswegen nicht in die Einrichtung aufgenommen (T&#228;tigkeit bzw.         Betreuung) werden. Es bedarf daneben <u>keiner</u> Meldung an das         Gesundheitsamt.&#8309;</b></font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">[erzbNameVollst]</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">Kein Nachweis, da Kind j&#252;nger         als 12 Monate&#179;</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">Nachweis &#252;ber 1 Masernimpfung         bei Kindern j&#252;nger als 24 Monate&#179;</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">&#196;rztliche Bescheinigung, dass         eine Immunit&#228;t gegen Masern besteht, weshalb kein Impfnachweis         erforderlich ist.</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">&#196;rztliche Bescheinigung &#252;ber         eine dauerhafte oder vor&#252;bergehende medizinische Kontraindikation,         aufgrund derer eine Masernschutzimpfung (derzeit) nicht m&#246;glich ist.</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">Bescheinigung einer Beh&#246;rde         oder einer anderen Einrichtung, dass eine &#228;rztliche Bescheinigung &#252;ber         altersentsprechenden ausreichenden Impfschutz, Immunit&#228;t oder         dauerhafte Kontraindikation bereits vorgelegt wurde.</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">Ein Nachweis &#252;ber die         Erlangung des altersentsprechenden Impfschutzes (mindestens eine         Masernschutzimpfung) wurde sp&#228;testens ein Monat nach Vollendung des         ersten Lebensjahres vorgelegt;<br>am </font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">Ein Nachweis &#252;ber die         Erlangung/Vervollst&#228;ndigung des vollst&#228;ndigen Impfschutzes (mindestens         zwei Masernimpfungen) wurde sp&#228;testens ein Monat nach Vollendung des         zweiten Lebensjahres vorgelegt;<br>am</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">Der Grund der         Kontraindikation ist zum</font></span>      </p>      <p align="left">        <span><font color="#000000" face="Arial">Erlangung/Vervollst&#228;ndigung         des vollst&#228;ndigen Masernschutzes wurde sp&#228;testens ein Monat nach         Ablauf der G&#252;ltigkeit des Nachweises vorgelegt; am</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">(Datum) weggefallen. Ein         Nachweis &#252;ber die </font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">Ein Nachweis &#252;ber die         Erlangung/Vervollst&#228;ndigung des vollst&#228;ndigen Impfschutzes (mindestens         zwei Masernimpfungen) wurde sp&#228;testens ein Monat nach Vollendung des         zweiten Lebensjahres vorgelegt;<br>am </font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">[werzbNameVollst]</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">[erzbAnschr]</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">[werzbAnschr]</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">[erzbKommunikationen]</font></span>      </p>      <p align="left">        <span><font color="#000000" face="Arial">2</font></span>      </p>      <p align="left">        <span><font color="#000000" face="Arial">3</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">[werzbKommunikationen]</font></span>      </p>      <p align="left">        <span><font color="#000000" face="Arial">2</font></span>      </p>      <p align="left">        <span><font color="#000000" face="Arial">3</font></span>      </p>      <p align="left">        <span><font color="#000000" face="Arial">4</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial" size="10pt">Ggf. Sprache f&#252;r         Anschreiben:</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial" size="10pt">deutsch</font></span>      </p>    </div>      <div>      <p align="left">        <span><font color="#000000" face="Arial">englisch</font></span>      </p>    </div>      <div>      <p align="center">              </p>    </div>      <div>      <p align="center">              </p>    </div>      <div>      <p align="center">              </p>    </div>      <div>      <p align="center">              </p>    </div>      <div>      <p align="center">              </p>    </div>      <div>      <p align="center">        <span><font color="#000000" face="Arial">(Datum).</font></span>      </p>    </div>      <div>      <p align="center">        <span><font color="#000000" face="Arial">(Datum).</font></span>      </p>    </div>      <div>      <p align="center">        <span><font color="#000000" face="Arial">(Datum).</font></span>      </p>    </div>      <div>      <p align="center">        <span><font color="#000000" face="Arial">(Datum).</font></span>      </p>    </div>      <div>      <p>        <span><font color="#000000" face="Arial"><b>3, 4</b></font></span>      </p>    </div>  
+    <defs>
+    </defs>
+    <rect>
+    </rect>
+    <rect>
+    </rect>
+    <rect>
+    </rect>
+    <textArea>    <div>      <p>        <span><font color="#000000" face="Arial">Dokumentationshilfe&#185; f&#252;r         Einrichtungen bzw. &#220;bermittlungsbogen an das zust&#228;ndige Gesundheitsamt</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Dokumentationshilfe&#185; f&#252;r 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        Einrichtungen bzw. &#220;bermittlungsbogen an das zust&#228;ndige Gesundheitsamt</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p>        <span><font color="#000000" face="Arial"><b>Nachweis &#252;ber einen         ausreichenden Masernschutz gem&#228;&#223; &#167; 20 Absatz 9 ff.         Infektionsschutzgesetz (IfSG) in Gemeinschaftseinrichtungen</b></font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial"><b>Nachweis &#252;ber einen 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        ausreichenden Masernschutz gem&#228;&#223; &#167; 20 Absatz 9 ff. 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        Infektionsschutzgesetz (IfSG) in Gemeinschaftseinrichtungen</b></font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">              </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p>        <span><font color="#000000" face="Arial">Nachname:</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Nachname:</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p>        <span><font color="#000000" face="Arial">Vorname:</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Vorname:</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p>        <span><font color="#000000" face="Arial">Name aller         Personensorgeberechtigten oder Betreuer:</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Name aller 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        Personensorgeberechtigten oder Betreuer:</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">              </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="center">        <span><font color="#000000" face="Arial">Geschlecht (m/w/d/oA):</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="center">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Geschlecht (m/w/d/oA):</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="center">              </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="center">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="center">        <span><font color="#000000" face="Arial">Geburtsdatum:</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="center">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Geburtsdatum:</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="center">              </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="center">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial"><b>1. F&#252;r o.g. Person&#178; sind         die Anforderungen zum Masernschutz erf&#252;llt</b></font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial"><b>1. F&#252;r o.g. Person&#178; sind 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        die Anforderungen zum Masernschutz erf&#252;llt</b></font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <kontrollfeld>
+    </kontrollfeld>
+    <kontrollfeld>
+    </kontrollfeld>
+    <kontrollfeld>
+    </kontrollfeld>
+    <kontrollfeld>
+    </kontrollfeld>
+    <kontrollfeld>
+    </kontrollfeld>
+    <kontrollfeld>
+    </kontrollfeld>
+    <kontrollfeld>
+    </kontrollfeld>
+    <kontrollfeld>
+    </kontrollfeld>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">Erreichbarkeit:</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Erreichbarkeit:</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">Adresse:</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Adresse:</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">Adresse:</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Adresse:</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">[erzbArt]:</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">[erzbArt]:</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">[werzbArt]:</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">[werzbArt]:</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <kontrollfeld>
+    </kontrollfeld>
+    <kontrollfeld>
+    </kontrollfeld>
+    <kontrollfeld>
+    </kontrollfeld>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">Nachweis &#252;ber 2         Masernimpfungen f&#252;r Erwachsene und Kinder (in der Regel ab 2 Jahre)</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Nachweis &#252;ber 2 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        Masernimpfungen f&#252;r Erwachsene und Kinder (in der Regel ab 2 Jahre)</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial"><b>Eine Meldung an das         zust&#228;ndige Gesundheitsamt ist in den genannten F&#228;llen <u>nicht</u>         erforderlich.</b></font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial"><b>Eine Meldung an das 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        zust&#228;ndige Gesundheitsamt ist in den genannten F&#228;llen <u>nicht</u> 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        erforderlich.</b></font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">Erreichbarkeit:</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Erreichbarkeit:</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial"><b>2. F&#252;r o.g. Person sind         die Anforderungen zum Masernschutz <u>nicht</u> erf&#252;llt</b></font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial"><b>2. F&#252;r o.g. Person sind 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        die Anforderungen zum Masernschutz <u>nicht</u> erf&#252;llt</b></font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">Es konnte keiner der im         vorstehenden Feld aufgef&#252;hrten Nachweise erbracht werden.</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Es konnte keiner der im 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        vorstehenden Feld aufgef&#252;hrten Nachweise erbracht werden.</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial"><b>Oben genannte Person kann         deswegen nicht in die Einrichtung aufgenommen (T&#228;tigkeit bzw.         Betreuung) werden. Es bedarf daneben <u>keiner</u> Meldung an das         Gesundheitsamt.&#8309;</b></font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial"><b>Oben genannte Person kann 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        deswegen nicht in die Einrichtung aufgenommen (T&#228;tigkeit bzw. 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        Betreuung) werden. Es bedarf daneben <u>keiner</u> Meldung an das 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        Gesundheitsamt.&#8309;</b></font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">[erzbNameVollst]</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">[erzbNameVollst]</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">Kein Nachweis, da Kind j&#252;nger         als 12 Monate&#179;</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Kein Nachweis, da Kind j&#252;nger 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        als 12 Monate&#179;</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">Nachweis &#252;ber 1 Masernimpfung         bei Kindern j&#252;nger als 24 Monate&#179;</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Nachweis &#252;ber 1 Masernimpfung 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        bei Kindern j&#252;nger als 24 Monate&#179;</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">&#196;rztliche Bescheinigung, dass         eine Immunit&#228;t gegen Masern besteht, weshalb kein Impfnachweis         erforderlich ist.</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">&#196;rztliche Bescheinigung, dass 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        eine Immunit&#228;t gegen Masern besteht, weshalb kein Impfnachweis 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        erforderlich ist.</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">&#196;rztliche Bescheinigung &#252;ber         eine dauerhafte oder vor&#252;bergehende medizinische Kontraindikation,         aufgrund derer eine Masernschutzimpfung (derzeit) nicht m&#246;glich ist.</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">&#196;rztliche Bescheinigung &#252;ber 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        eine dauerhafte oder vor&#252;bergehende medizinische Kontraindikation, 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        aufgrund derer eine Masernschutzimpfung (derzeit) nicht m&#246;glich ist.</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">Bescheinigung einer Beh&#246;rde         oder einer anderen Einrichtung, dass eine &#228;rztliche Bescheinigung &#252;ber         altersentsprechenden ausreichenden Impfschutz, Immunit&#228;t oder         dauerhafte Kontraindikation bereits vorgelegt wurde.</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Bescheinigung einer Beh&#246;rde 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        oder einer anderen Einrichtung, dass eine &#228;rztliche Bescheinigung &#252;ber 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        altersentsprechenden ausreichenden Impfschutz, Immunit&#228;t oder 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        dauerhafte Kontraindikation bereits vorgelegt wurde.</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">Ein Nachweis &#252;ber die         Erlangung des altersentsprechenden Impfschutzes (mindestens eine         Masernschutzimpfung) wurde sp&#228;testens ein Monat nach Vollendung des         ersten Lebensjahres vorgelegt;<br>am </font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Ein Nachweis &#252;ber die 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        Erlangung des altersentsprechenden Impfschutzes (mindestens eine 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        Masernschutzimpfung) wurde sp&#228;testens ein Monat nach Vollendung des 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        ersten Lebensjahres vorgelegt;<br>am </font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">Ein Nachweis &#252;ber die         Erlangung/Vervollst&#228;ndigung des vollst&#228;ndigen Impfschutzes (mindestens         zwei Masernimpfungen) wurde sp&#228;testens ein Monat nach Vollendung des         zweiten Lebensjahres vorgelegt;<br>am</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Ein Nachweis &#252;ber die 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        Erlangung/Vervollst&#228;ndigung des vollst&#228;ndigen Impfschutzes (mindestens 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        zwei Masernimpfungen) wurde sp&#228;testens ein Monat nach Vollendung des 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        zweiten Lebensjahres vorgelegt;<br>am</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">Der Grund der         Kontraindikation ist zum</font></span>      </p>      <p align="left">        <span><font color="#000000" face="Arial">Erlangung/Vervollst&#228;ndigung         des vollst&#228;ndigen Masernschutzes wurde sp&#228;testens ein Monat nach         Ablauf der G&#252;ltigkeit des Nachweises vorgelegt; am</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Der Grund der 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        Kontraindikation ist zum</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Erlangung/Vervollst&#228;ndigung 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        des vollst&#228;ndigen Masernschutzes wurde sp&#228;testens ein Monat nach 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        Ablauf der G&#252;ltigkeit des Nachweises vorgelegt; am</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">(Datum) weggefallen. Ein         Nachweis &#252;ber die </font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">(Datum) weggefallen. Ein 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        Nachweis &#252;ber die </font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">Ein Nachweis &#252;ber die         Erlangung/Vervollst&#228;ndigung des vollst&#228;ndigen Impfschutzes (mindestens         zwei Masernimpfungen) wurde sp&#228;testens ein Monat nach Vollendung des         zweiten Lebensjahres vorgelegt;<br>am </font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">Ein Nachweis &#252;ber die 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        Erlangung/Vervollst&#228;ndigung des vollst&#228;ndigen Impfschutzes (mindestens 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        zwei Masernimpfungen) wurde sp&#228;testens ein Monat nach Vollendung des 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        zweiten Lebensjahres vorgelegt;<br>am </font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">[werzbNameVollst]</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">[werzbNameVollst]</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">[erzbAnschr]</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">[erzbAnschr]</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">[werzbAnschr]</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">[werzbAnschr]</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">[erzbKommunikationen]</font></span>      </p>      <p align="left">        <span><font color="#000000" face="Arial">2</font></span>      </p>      <p align="left">        <span><font color="#000000" face="Arial">3</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">[erzbKommunikationen]</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">2</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">3</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">[werzbKommunikationen]</font></span>      </p>      <p align="left">        <span><font color="#000000" face="Arial">2</font></span>      </p>      <p align="left">        <span><font color="#000000" face="Arial">3</font></span>      </p>      <p align="left">        <span><font color="#000000" face="Arial">4</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">[werzbKommunikationen]</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">2</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">3</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">4</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial" size="10pt">Ggf. Sprache f&#252;r         Anschreiben:</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial" size="10pt">Ggf. Sprache f&#252;r 
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        Anschreiben:</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <kontrollfeld>
+    </kontrollfeld>
+    <kontrollfeld>
+    </kontrollfeld>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial" size="10pt">deutsch</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial" size="10pt">deutsch</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="left">        <span><font color="#000000" face="Arial">englisch</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="left">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">englisch</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="center">              </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="center">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="center">              </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="center">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="center">              </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="center">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="center">              </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="center">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="center">              </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="center">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="center">        <span><font color="#000000" face="Arial">(Datum).</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="center">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">(Datum).</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="center">        <span><font color="#000000" face="Arial">(Datum).</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="center">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">(Datum).</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="center">        <span><font color="#000000" face="Arial">(Datum).</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="center">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">(Datum).</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p align="center">        <span><font color="#000000" face="Arial">(Datum).</font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p align="center">
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial">(Datum).</font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+    <textArea>    <div>      <p>        <span><font color="#000000" face="Arial"><b>3, 4</b></font></span>      </p>    </div>  
+        <tbreak>
+        </tbreak>
+        <#text>    <div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      <p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>        <span><font color="#000000" face="Arial"><b>3, 4</b></font></span>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>      </p>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>    </div>
+        </#text>
+        <tbreak>
+        </tbreak>
+        <#text>  
+        </#text>
+    </textArea>
+</svg>
